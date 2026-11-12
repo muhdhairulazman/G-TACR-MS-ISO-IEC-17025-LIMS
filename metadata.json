@@ -1,0 +1,6 @@
+{
+  "name": "ISO 17025 LIMS Prototype",
+  "description": "ISO/IEC 17025:2017 compliant Laboratory Information Management System (LIMS) featuring 4-role segregation of duties, 7-day working TAT countdown tracker, pre-payment gating, and cryptographic digital sign-off.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
